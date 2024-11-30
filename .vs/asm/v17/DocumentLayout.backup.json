@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:50:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:50:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:50:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:50:04.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:50:00.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:49:54.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:47:32.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:46:24.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:46:07.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:06:54.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
