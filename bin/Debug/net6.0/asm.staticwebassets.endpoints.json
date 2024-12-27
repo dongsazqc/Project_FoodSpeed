@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Alert/ShowAlert.js",
+      "AssetFile": "Alert/ShowAlert.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXF8UaUEaMQMsBouA+J01p32I3rvO8ztJ+GZShn31vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 13:25:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXF8UaUEaMQMsBouA+J01p32I3rvO8ztJ+GZShn31vo="
+        }
+      ]
+    },
+    {
+      "Route": "Alert/ShowAlert.lm022cpm6k.js",
+      "AssetFile": "Alert/ShowAlert.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXF8UaUEaMQMsBouA+J01p32I3rvO8ztJ+GZShn31vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 13:25:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm022cpm6k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXF8UaUEaMQMsBouA+J01p32I3rvO8ztJ+GZShn31vo="
+        },
+        {
+          "Name": "label",
+          "Value": "Alert/ShowAlert.js"
+        }
+      ]
+    },
+    {
       "Route": "TemplatesAdmin/css/styles.css",
       "AssetFile": "TemplatesAdmin/css/styles.css",
       "Selectors": [],

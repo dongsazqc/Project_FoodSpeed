@@ -1,0 +1,160 @@
+﻿@{
+    Layout = "~/Areas/Customer/Views/Shared/_LayoutCustomer.cshtml"; // Đảm bảo đường dẫn đúng
+}
+
+@model IEnumerable<asm.Models.Product>
+
+
+<h1 class="page-title" >
+    Menu
+</h1>
+
+<form method="get" asp-action="Index">
+    <input type="text" name="searchTerm" placeholder="Tìm món ăn..." value="@Context.Request.Query["searchTerm"]" />
+    <button type="submit">Tìm kiếm</button>
+</form>
+<!-- Hiển thị danh sách sản phẩm -->
+<div class="product-list">
+    @if (Model.Any())
+    {
+        @foreach (var product in Model)
+        {
+            <div class="product-item">
+                <img class="product-image" src="@product.ImageUrl" alt="@product.ProductName" />
+                <h4 class="product-name">@product.ProductName</h4>
+                <p class="product-description">@product.Description</p>
+                <p class="product-price">@product.Price.ToString("C")</p>
+                <form method="post" asp-action="AddToCart">
+                    <input type="hidden" name="productId" value="@product.ProductId" />
+                    <button type="submit" class="add-to-cart-button">Add to Cart</button>
+                </form>
+            </div>
+        }
+    }
+    else
+    {
+        <p>Không có sản phẩm nào phù hợp với từ khóa.</p>
+    }
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".add-to-cart").click(function () {
+                var productId = $(this).data("id");
+                var productName = $(this).data("name");
+                var price = $(this).data("price");
+
+                var cart = sessionStorage.getItem("cart");
+                var cartItems = cart ? JSON.parse(cart) : [];
+
+                var existingItem = cartItems.find(item => item.ProductId === productId);
+                if (existingItem) {
+                    existingItem.Quantity++;
+                } else {
+                    cartItems.push({
+                        ProductId: productId,
+                        ProductName: productName,
+                        Price: price,
+                        Quantity: 1
+                    });
+                }
+
+                sessionStorage.setItem("cart", JSON.stringify(cartItems));
+                alert(productName + " has been added to your cart.");
+            });
+        });
+    </script>
+}
+
+<style>
+    /* General Page Styles */
+
+
+    .page-title {
+        text-align: center;
+    }
+
+    /* Product List Styles */
+    .product-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 20px;
+        justify-items: center;
+    }
+
+    /* Product Item Styles */
+    .product-item {
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        padding: 15px;
+        width: 100%;
+        max-width: 250px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .product-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+    .product-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+
+    .product-name {
+        font-size: 1.2em;
+        color: #333;
+        margin: 10px 0;
+        font-weight: bold;
+    }
+
+    .product-description {
+        font-size: 0.9em;
+        color: #666;
+        margin: 10px 0;
+    }
+
+    .product-price {
+        font-size: 1.1em;
+        color: #28a745;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    /* Button Style */
+    .add-to-cart-button {
+        background-color: #007bff;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .add-to-cart-button:hover {
+            background-color: #0056b3;
+        }
+
+    /* Responsive Adjustments */
+    .product-list {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    }
+
+    .product-list {
+        grid-template-columns: 1fr;
+    }
+
+    .page-title {
+        font-size: 1.5em;
+    }
+
+    
+</style>

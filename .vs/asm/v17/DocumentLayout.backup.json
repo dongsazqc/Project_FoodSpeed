@@ -1,46 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\",
+  "WorkspaceRootPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\4.2-devloper_c#4\\mycode\\coppy-asm\\asm\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\alert\\showalert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:wwwroot\\alert\\showalert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,131 +36,63 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:50:13.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:50:10.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Details.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Details.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Details.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:50:07.735Z",
+              "WhenOpened": "2024-12-23T06:45:03.295Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:14:15.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAK8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:50:04.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T13:11:57.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:50:00.283Z",
-              "EditorCaption": ""
+              "Title": "ShowAlert.js",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\Alert\\ShowAlert.js",
+              "RelativeDocumentMoniker": "wwwroot\\Alert\\ShowAlert.js",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\Alert\\ShowAlert.js",
+              "RelativeToolTip": "wwwroot\\Alert\\ShowAlert.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-25T13:08:04.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Users\\Create.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:49:54.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:47:32.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductCategory.cs",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\ProductCategory.cs",
-              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\ProductCategory.cs",
-              "RelativeToolTip": "Models\\ProductCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:46:24.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:46:07.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T06:06:54.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:07:27.856Z"
             }
           ]
         }

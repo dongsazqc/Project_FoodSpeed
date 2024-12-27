@@ -1,3 +1,4 @@
+wwwroot\Alert\ShowAlert.js
 wwwroot\favicon.ico
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

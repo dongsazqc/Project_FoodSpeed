@@ -1,0 +1,160 @@
+﻿@model asm.Models.CartViewModel
+
+<h2 style="padding-top:100px" class="cart-title">Your Cart </h2>
+
+@if (Model.CartItems != null && Model.CartItems.Count > 0)
+{
+    <div class="cart-container">
+        @foreach (var item in Model.CartItems)
+        {
+            <div class="cart-item">
+                <div class="cart-item-image">
+                    <img src="@item.ImageUrl" alt="@item.ProductName" />
+                </div>
+                <div class="cart-item-info">
+                    <h4>@item.ProductName</h4>
+                    <p class="product-price">Price: @item.Price.ToString("C")</p>
+                    <p class="product-quantity">Quantity: @item.Quantity</p>
+                    <p class="product-total">Total: @(item.Price * item.Quantity).ToString("C")</p>
+
+                    <!-- Nút xóa sản phẩm -->
+                    <form asp-action="RemoveFromCart" method="post">
+                        <input type="hidden" name="productId" value="@item.ProductId" />
+                        <button type="submit" class="btn-remove">Remove</button>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="cart-summary">
+        <h3>Total Amount: @Model.TotalAmount.ToString("C")</h3>
+    </div>
+
+    <!-- Nút thanh toán -->
+    <form asp-action="Checkout" method="get">
+        <button type="submit" class="btn-checkout">Proceed to Checkout</button>
+    </form>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}
+
+<style>
+    /* General Styles */
+
+    .cart-title {
+        text-align: center;
+        font-size: 2em;
+        color: #333;
+        margin-top: 30px;
+    }
+
+    /* Cart Container */
+    .cart-container {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    /* Cart Item */
+    .cart-item {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .cart-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+    .cart-item-image img {
+        max-width: 100px;
+        max-height: 100px;
+        border-radius: 5px;
+    }
+
+    .cart-item-info {
+        flex-grow: 1;
+        margin-left: 20px;
+    }
+
+        .cart-item-info h4 {
+            font-size: 1.2em;
+            color: #333;
+        }
+
+    .product-price,
+    .product-quantity,
+    .product-total {
+        font-size: 1em;
+        color: #666;
+        margin: 5px 0;
+    }
+
+    /* Button Styles */
+    .btn-remove {
+        background-color: #dc3545;
+        color: white;
+        padding: 8px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-remove:hover {
+            background-color: #c82333;
+        }
+
+    .btn-checkout {
+        background-color: #28a745;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1.1em;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+        .btn-checkout:hover {
+            background-color: #218838;
+        }
+
+    /* Cart Summary */
+    .cart-summary {
+        text-align: right;
+        font-size: 1.2em;
+        margin-top: 20px;
+    }
+
+    /* Responsive Adjustments */
+    .cart-item {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .cart-item-image img {
+        max-width: 80px;
+        max-height: 80px;
+    }
+
+    .cart-item-info {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+</style>

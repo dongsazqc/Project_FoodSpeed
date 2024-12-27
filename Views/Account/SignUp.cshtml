@@ -1,0 +1,73 @@
+﻿@model asm.Models.User
+
+@{
+    ViewBag.Title = "Đăng ký";
+}
+
+<h2>Đăng ký</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+<form method="post" asp-action="SignUp">
+    <div class="form-group">
+        <label for="FullName">Họ và tên</label>
+        <input type="text" name="FullName" id="FullName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" name="Email" id="Email" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="Password">Mật khẩu</label>
+        <input type="password" name="Password" id="Password" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="PhoneNumber">Số điện thoại</label>
+        <input type="text" name="PhoneNumber" id="PhoneNumber" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Đăng ký</button>
+</form>
+
+
+
+<style>
+    form {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            font-weight: bold;
+        }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        padding: 10px 15px;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+</style>

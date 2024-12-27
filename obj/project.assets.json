@@ -11740,11 +11740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\asm.csproj",
+      "projectUniqueName": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\asm.csproj",
       "projectName": "asm",
-      "projectPath": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\asm.csproj",
+      "projectPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\asm.csproj",
       "packagesPath": "C:\\Users\\dong0\\.nuget\\packages\\",
-      "outputPath": "E:\\4.2-Devloper_C#4\\MyCode\\Coppy-ASM\\asm\\obj\\",
+      "outputPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11776,7 +11776,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -11836,40 +11836,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4qm4-8hg2-g2xm",
-      "libraryId": "MessagePack",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Net.Http' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
-      "libraryId": "System.Net.Http",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
-      "libraryId": "System.Text.RegularExpressions",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

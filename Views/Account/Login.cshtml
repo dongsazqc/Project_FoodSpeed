@@ -2,11 +2,11 @@
     ViewBag.Title = "Đăng nhập";
 }
 
-<h2>Đăng nhập</h2>
+<h2 style="padding-top:100px" >Đăng nhập</h2>
 
 @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
 {
-    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+    <div class="alert alert-danger" >@ViewBag.ErrorMessage</div>
 }
 
 <form method="post" action="/Account/Login">
@@ -19,4 +19,9 @@
         <input type="password" name="password" id="password" class="form-control" required />
     </div>
     <button type="submit" class="btn btn-primary">Đăng nhập</button>
+    <a asp-action="SignUp">Bạn chưa có tài khoản? Đăng kí ngay </a>
+
 </form>
+
+
+

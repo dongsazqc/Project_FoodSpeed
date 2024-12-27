@@ -1,5 +1,4 @@
 ﻿<!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
 <!-- Basic -->
 <head>
@@ -50,8 +49,8 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item "><a class="nav-link"  asp-controller="Home" asp-action="Index">Home</a></li>
                         <li class="nav-item"><a class="nav-link"  asp-controller="Menu" asp-action="Index">Menu</a></li>
-
-                        <li class="nav-item"><a class="nav-link"  asp-controller="About" asp-action="Index">About</a></li>
+                        @* <li class="nav-item"><a class="nav-link" asp-controller="Cart" asp-action="Index">Cart</a></li> *@
+                        <li class="nav-item"><a class="nav-link" asp-controller="About" asp-action="Index">About</a></li>
 
 
 
@@ -155,6 +154,7 @@
 
     </footer>
     <!-- End Footer -->
+    @RenderSection("Scripts", required: false)
 
     <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 
@@ -170,5 +170,7 @@
     <script src="~/templates/js/form-validator.min.js"></script>
     <script src="~/templates/js/contact-form-script.js"></script>
     <script src="~/templates/js/custom.js"></script>
+
+    <script src="~/alert/showalert.js"></script> <!-- showAlert -->
 </body>
 </html>

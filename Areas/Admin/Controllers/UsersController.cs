@@ -52,7 +52,7 @@ namespace asm.Areas.Admin.Controllers
         }
 
         // POST: Admin/Users/Create
-        // To protect from overposting attacks, enable the s    pecific properties you want to bind to.
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -158,18 +158,6 @@ namespace asm.Areas.Admin.Controllers
         private bool UserExists(int id)
         {
           return (_context.Users?.Any(e => e.UserId == id)).GetValueOrDefault();
-        }
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-        {
-            app.UseRouting();
-
-            app.UseEndpoints(endpoints =>
-            {
-                // Chỉ định route mặc định nếu không có
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
-            });
         }
     }
 }
