@@ -58,6 +58,8 @@ namespace asm.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ProductId,ProductName,Description,Price,ImageUrl,StockQuantity,CreatedDate")] Product product)
         {
+
+            product.CreatedDate = DateTime.Now;
             if (ModelState.IsValid)
             {
                 _context.Add(product);

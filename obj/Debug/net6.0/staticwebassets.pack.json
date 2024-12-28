@@ -1,575 +1,575 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\Alert\\ShowAlert.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\Alert\\ShowAlert.js",
       "PackagePath": "staticwebassets\\Alert\\ShowAlert.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\css\\styles.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\css\\styles.css",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\demo\\chart-area-demo.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\demo\\chart-bar-demo.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\demo\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\demo\\chart-pie-demo.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\demo\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\demo\\datatables-demo.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\demo\\datatables-demo.js",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\img\\error-404-monochrome.svg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\img\\error-404-monochrome.svg",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\img\\error-404-monochrome.svg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\js\\datatables-simple-demo.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\js\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\TemplatesAdmin\\js\\scripts.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\TemplatesAdmin\\js\\scripts.js",
       "PackagePath": "staticwebassets\\TemplatesAdmin\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\favicon.ico",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\animate.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\animate.css",
       "PackagePath": "staticwebassets\\templates\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\baguetteBox.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\baguetteBox.min.css",
       "PackagePath": "staticwebassets\\templates\\css\\baguetteBox.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\bootstrap.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\templates\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\classic.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\classic.css",
       "PackagePath": "staticwebassets\\templates\\css\\classic.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\classic.date.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\classic.date.css",
       "PackagePath": "staticwebassets\\templates\\css\\classic.date.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\classic.time.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\classic.time.css",
       "PackagePath": "staticwebassets\\templates\\css\\classic.time.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\custom.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\custom.css",
       "PackagePath": "staticwebassets\\templates\\css\\custom.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\font-awesome.min.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\templates\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\responsive.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\responsive.css",
       "PackagePath": "staticwebassets\\templates\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\style.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\style.css",
       "PackagePath": "staticwebassets\\templates\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\css\\superslides.css",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\css\\superslides.css",
       "PackagePath": "staticwebassets\\templates\\css\\superslides.css"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\fonts\\FontAwesome.otf",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\templates\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\fonts\\fontawesome-webfont.eot",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\templates\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\fonts\\fontawesome-webfont.svg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\templates\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\fonts\\fontawesome-webfont.ttf",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\templates\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\fonts\\fontawesome-webfont.woff",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\templates\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\fonts\\fontawesome-webfont.woff2",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\templates\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\about-img.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\about-img.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\all-bg.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\all-bg.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\all-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\avt-img.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\avt-img.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\avt-img.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-01.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-01.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-01.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-02.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-02.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-02.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-03.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-03.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-03.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-04.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-04.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-04.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-05.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-05.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-05.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-06.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-06.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-06.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-07.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-07.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-07.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-08.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-08.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-08.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\blog-img-09.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\blog-img-09.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\blog-img-09.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\footer-bg.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\footer-bg.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\footer-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\gallery-img-01.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\gallery-img-01.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\gallery-img-01.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\gallery-img-02.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\gallery-img-02.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\gallery-img-02.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\gallery-img-03.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\gallery-img-03.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\gallery-img-03.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\gallery-img-04.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\gallery-img-04.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\gallery-img-04.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\gallery-img-05.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\gallery-img-05.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\gallery-img-05.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\gallery-img-06.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\gallery-img-06.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\gallery-img-06.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-01.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-01.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-01.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-02.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-02.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-02.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-03.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-03.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-03.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-04.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-04.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-04.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-05.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-05.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-05.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-06.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-06.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-06.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-07.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-07.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-07.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-08.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-08.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-08.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\img-09.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\img-09.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\img-09.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\inner-blog-img.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\inner-blog-img.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\inner-blog-img.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\logo.png",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\logo.png",
       "PackagePath": "staticwebassets\\templates\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\post-img-01.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\post-img-01.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\post-img-01.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\post-img-02.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\post-img-02.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\post-img-02.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\post-img-03.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\post-img-03.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\post-img-03.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\profile-1.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\profile-1.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\profile-1.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\profile-3.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\profile-3.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\profile-3.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\profile-7.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\profile-7.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\profile-7.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\qt-bg.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\qt-bg.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\qt-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\slider-01.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\slider-01.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\slider-01.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\slider-02.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\slider-02.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\slider-02.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\slider-03.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\slider-03.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\slider-03.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\stuff-img-01.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\stuff-img-01.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\stuff-img-01.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\stuff-img-02.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\stuff-img-02.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\stuff-img-02.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\images\\stuff-img-03.jpg",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\images\\stuff-img-03.jpg",
       "PackagePath": "staticwebassets\\templates\\images\\stuff-img-03.jpg"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\baguetteBox.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\baguetteBox.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\baguetteBox.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\bootstrap.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\contact-form-script.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\contact-form-script.js",
       "PackagePath": "staticwebassets\\templates\\js\\contact-form-script.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\custom.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\custom.js",
       "PackagePath": "staticwebassets\\templates\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\form-validator.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\form-validator.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\form-validator.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\images-loded.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\images-loded.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\images-loded.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\isotope.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\isotope.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\isotope.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\jquery-3.2.1.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\jquery.mapify.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\jquery.mapify.js",
       "PackagePath": "staticwebassets\\templates\\js\\jquery.mapify.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\jquery.superslides.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\jquery.superslides.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\jquery.superslides.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\legacy.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\legacy.js",
       "PackagePath": "staticwebassets\\templates\\js\\legacy.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\picker.date.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\picker.date.js",
       "PackagePath": "staticwebassets\\templates\\js\\picker.date.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\picker.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\picker.js",
       "PackagePath": "staticwebassets\\templates\\js\\picker.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\picker.time.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\picker.time.js",
       "PackagePath": "staticwebassets\\templates\\js\\picker.time.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\js\\popper.min.js",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\templates\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\templates\\php\\form-process.php",
+      "Id": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\templates\\php\\form-process.php",
       "PackagePath": "staticwebassets\\templates\\php\\form-process.php"
     },
     {

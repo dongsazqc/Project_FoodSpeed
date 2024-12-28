@@ -33,6 +33,12 @@
                 <span asp-validation-for="ImageUrl" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="StockQuantity" class="control-label"></label>
+                <input asp-for="StockQuantity" class="form-control" />
+                <span asp-validation-for="StockQuantity" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -43,3 +49,124 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
+<style>
+    /* Tổng thể trang */
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f7f9fc; /* Nền sáng nhẹ */
+        color: #333; /* Văn bản chính dễ đọc */
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Tiêu đề */
+    h1, h4 {
+        color: #2c3e50; /* Màu tối cho tiêu đề */
+        font-weight: 600;
+    }
+
+    h1 {
+        font-size: 2.5em;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    h4 {
+        font-size: 1.7em;
+        margin-bottom: 10px;
+        text-align: center;
+        color: #8e44ad; /* Màu tím nổi bật */
+    }
+
+    /* Form */
+    .form-group {
+        margin-bottom: 20px; /* Tạo khoảng cách giữa các trường */
+    }
+
+    /* Nhãn */
+    label.control-label {
+        font-weight: bold;
+        color: #8e44ad; /* Màu tím cho nhãn */
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    /* Input và Textarea */
+    input.form-control, textarea.form-control {
+        background-color: #ffffff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 12px;
+        font-size: 1em;
+        width: 100%;
+        box-sizing: border-box;
+        transition: all 0.3s ease;
+    }
+
+        /* Hiệu ứng khi focus vào input */
+        input.form-control:focus, textarea.form-control:focus {
+            border-color: #3498db; /* Màu viền khi focus */
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.5); /* Đổ bóng khi focus */
+            outline: none;
+        }
+
+    /* Text error */
+    .text-danger {
+        color: #e74c3c; /* Màu đỏ cho các thông báo lỗi */
+    }
+
+    /* Nút submit */
+    input[type="submit"] {
+        background-color: #8e44ad; /* Màu nền tím cho nút */
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 50px;
+        font-size: 1.2em;
+        cursor: pointer;
+        width: 100%;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+        /* Nút submit khi hover */
+        input[type="submit"]:hover {
+            background-color: #9b59b6; /* Màu tím nhạt hơn khi hover */
+            transform: scale(1.05); /* Hiệu ứng phóng to nhẹ khi hover */
+        }
+
+    /* Liên kết quay lại */
+    a {
+        font-size: 1.1em;
+        color: #3498db; /* Màu xanh lam cho liên kết */
+        text-decoration: none;
+        margin-top: 20px;
+        display: inline-block;
+        transition: color 0.3s ease;
+    }
+
+        a:hover {
+            color: #2980b9; /* Màu khi hover */
+        }
+
+    /* Tạo khoảng cách cho các phần tử */
+    .row {
+        margin-top: 20px;
+    }
+
+    .col-md-4 {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+        margin: 0 auto;
+        width: 50%;
+    }
+
+    /* Bố cục các phần tử */
+    hr {
+        border: 0;
+        border-top: 2px solid #3498db; /* Dòng phân cách màu xanh lam */
+        margin-bottom: 20px;
+    }
+
+</style>

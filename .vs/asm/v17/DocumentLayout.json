@@ -1,25 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\",
+  "WorkspaceRootPath": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\controllers\\homeadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\homeadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\alert\\showalert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|e:\\fodelfoodspeed\\project_foodspeed\\wwwroot\\alert\\showalert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:wwwroot\\alert\\showalert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -30,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Menu\\Index.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Views\\Menu\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Menu\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Views\\Menu\\Index.cshtml",
               "RelativeToolTip": "Views\\Menu\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-23T06:45:03.295Z",
               "IsPinned": true,
@@ -48,11 +80,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:48:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:48:32.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeAdController.cs",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\HomeAdController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdController.cs",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\HomeAdController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:48:14.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:48:12.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:07:27.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T13:41:32.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T14:48:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:40:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:40:01.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\AboutController.cs",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\AboutController.cs",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Controllers\\AboutController.cs",
               "RelativeToolTip": "Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAJAAAAAAAAAAAAAAAK8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,27 +221,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ShowAlert.js",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\Alert\\ShowAlert.js",
+              "DocumentMoniker": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\Alert\\ShowAlert.js",
               "RelativeDocumentMoniker": "wwwroot\\Alert\\ShowAlert.js",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\wwwroot\\Alert\\ShowAlert.js",
+              "ToolTip": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\wwwroot\\Alert\\ShowAlert.js",
               "RelativeToolTip": "wwwroot\\Alert\\ShowAlert.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-25T13:08:04.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "Controllers\\MenuController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:07:27.856Z"
             }
           ]
         }

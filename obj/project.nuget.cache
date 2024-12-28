@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBuR3bRhlW8=",
+  "dgSpecHash": "mJtfBTDmmHs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\asm.csproj",
+  "projectFilePath": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\asm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dong0\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\dong0\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

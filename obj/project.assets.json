@@ -11740,11 +11740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\asm.csproj",
+      "projectUniqueName": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\asm.csproj",
       "projectName": "asm",
-      "projectPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\asm.csproj",
+      "projectPath": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\asm.csproj",
       "packagesPath": "C:\\Users\\dong0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\asm(danglamviec)\\asm\\obj\\",
+      "outputPath": "E:\\FodelFoodSpeed\\Project_FoodSpeed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
