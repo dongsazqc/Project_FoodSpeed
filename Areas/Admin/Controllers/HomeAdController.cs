@@ -9,5 +9,13 @@ namespace asm.Areas.Admin.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Logout()
+        {
+
+            HttpContext.Session.Clear();
+            return RedirectToAction("Login","Account" ,new { Area = "" });
+        }
     }
 }
