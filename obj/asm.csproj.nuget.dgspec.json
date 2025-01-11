@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\asm.csproj": {}
+    "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\asm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\asm.csproj": {
+    "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\asm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\asm.csproj",
+        "projectUniqueName": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\asm.csproj",
         "projectName": "asm",
-        "projectPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\asm.csproj",
+        "projectPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\asm.csproj",
         "packagesPath": "C:\\Users\\dong0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\obj\\",
+        "outputPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,40 +48,48 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
               "version": "[2.22.0, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.36, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.36, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.36, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.36, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.18, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -103,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

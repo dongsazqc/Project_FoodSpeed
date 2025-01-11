@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\",
+  "WorkspaceRootPath": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\duan\\project_foodspeed\\areas\\admin\\controllers\\homeadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\new folder\\project_foodspeed\\areas\\admin\\controllers\\homeadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\homeadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\duan\\project_foodspeed\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\new folder\\project_foodspeed\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\duan\\project_foodspeed\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|c:\\users\\dong0\\onedrive\\desktop(1)\\new folder\\project_foodspeed\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABDE31-8573-4321-B025-C465B46DF693}|asm.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +26,39 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T11:00:47.051Z",
+              "WhenOpened": "2025-01-11T05:54:27.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T10:57:25.075Z",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:54:27.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeAdController.cs",
-              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\HomeAdController.cs",
+              "DocumentMoniker": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\HomeAdController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdController.cs",
-              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\DuAN\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\HomeAdController.cs",
+              "ToolTip": "C:\\Users\\dong0\\OneDrive\\desktop(1)\\New folder\\Project_FoodSpeed\\Areas\\Admin\\Controllers\\HomeAdController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T10:54:38.948Z",
               "EditorCaption": ""
